@@ -1,3 +1,4 @@
+# Smoke  test vs. Sanity test
 #### This is synonyms!
 
 [ISTQB Glossary "Sanity"](https://istqb-glossary.page/sanity-test/) and [ISTQB Glossary "Smoke"](https://istqb-glossary.page/smoke-test/) give follow definition: A test suite that covers the main functionality of a component or system to determine whether it works properly before planned testing begins.
