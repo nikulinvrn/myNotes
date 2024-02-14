@@ -68,3 +68,8 @@ Links to short notes and they annotations will be here later when its deserve it
 		- Необходимые знания и навыки
 		- Особенности тест-кейсов в автоматизации
 		- Технологии автоматизации тестирования
+
+## Практика
+
+[[Тестирование REST API]]
+
